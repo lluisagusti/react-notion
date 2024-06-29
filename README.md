@@ -29,7 +29,7 @@ _\* First Meaningful Paint compared to a [hosted example](http://react-notion-ex
 **react-notion** is best suited as minimal renderer for blogs & content pages. If you're looking for a full-featured solution to render Notion-like pages, check out [react-notion-x](https://github.com/NotionX/react-notion-x).
 
 
-## Install
+## Install 
 
 ```bash
 npm install react-notion
